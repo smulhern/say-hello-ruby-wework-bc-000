@@ -1,4 +1,4 @@
-def 
+describedef 
   say_hello("Spock")
 end
 
