@@ -1,8 +1,6 @@
-def
+name = ["Spock", "Ruby Programmer"]
 
-  puts "Hello #{say_hello["Spock"}!"
-  say_hello("Spock")
-end
+  puts "Hello #{say_hello[}!"
 
 def
 
