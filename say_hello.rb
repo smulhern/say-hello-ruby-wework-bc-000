@@ -4,5 +4,3 @@ def say_hello(name = "Ruby Programmer")
 end
 
 name = "Kent Beck"
-
-def 
