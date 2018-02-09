@@ -1,6 +1,8 @@
 name = ["Spock", "Ruby Programmer"]
 
-  puts "Hello #{say_hello[}!"
+puts "Hello #{name[0]}!"
+
+say_hello(name)
 
 def
 
